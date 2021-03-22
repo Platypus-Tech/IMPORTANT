@@ -1,3 +1,5 @@
+In response to POSIX:
+
 DFC CODE STANDARDS (DCS)
 ========================
  ..............
