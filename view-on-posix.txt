@@ -1,0 +1,1 @@
+I don't like POSIX because nobody should tell me how to code in a way that works for someone else. I am going to code the way I want to code. That's a fact.
